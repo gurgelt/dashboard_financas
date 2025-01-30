@@ -36,6 +36,8 @@ Os dados foram tratados e modelados diretamente no Power BI, garantindo uma estr
 # 📢 Contato
 
 Caso tenha dúvidas, sugestões ou queira contribuir, fique à vontade para:
-📬 Abrir uma issue no repositório.📧 Entrar em contato diretamente.
+
+📬 Abrir uma issue no repositório.<br>
+📧 Entrar em contato diretamente.<br>
 
 📈 Acompanhe, explore e otimize suas finanças com o Finance Dashboard! 🚀
